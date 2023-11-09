@@ -581,7 +581,11 @@ h6 {
   width: 50%;
 }
 
-.section-header h3 span {
+/* .section-header h3 span {
+  color:#38761d;
+} */
+
+.section-header h3 span .auto-type02 {
   color:#38761d;
 }
 
