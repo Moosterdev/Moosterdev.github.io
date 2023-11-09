@@ -565,7 +565,8 @@ h6 {
 
 .section-header h3 {
   font-size: 36px;
-  color: #38761d;
+  /* color: #38761d; */
+  color:#333333;
   text-align: center;
   font-weight: 500;
   position: relative;
@@ -581,7 +582,7 @@ h6 {
 }
 
 .section-header h3 span {
-  color:#333333;
+  /* color:#333333; */
 }
 
 /* Section with background
