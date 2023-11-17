@@ -188,8 +188,9 @@ h6 {
 }
 
 #intro .img-fluid {
-  max-width: 100% !important;
-  margin-left: 50px;
+  max-width: 150% !important;
+  /* margin-left: 50px; */
+  margin-left: 65px;
 }
 
 #intro .intro-info {
@@ -265,7 +266,7 @@ h6 {
 }
 
 .section_title01 h3 {
-  font-size: 36px;
+  font-size: 33px;
   /* font-weight: bold; */
   font-weight: 500;
   margin-top: 80px;
@@ -319,7 +320,7 @@ h6 {
 
 .logo_item img {
   height: 5rem;
-  /* width: 7rem; */
+  width: 9rem;
   margin-inline: 4rem;
   
 }
